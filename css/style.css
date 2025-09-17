@@ -83,16 +83,15 @@ background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5F
 
     background-size: cover;
     background-position: center;
- 
 }
 .home-content{
-    max-width: 60rem;
+    max-width: 80rem;
     z-index: 99;
 }
 .home-content h1{
     position: relative;
     display: inline-block;
-    font-size: 5.1rem;
+    font-size: 6.1rem;
     font-weight: 700;
     line-height: 1.3;
 }
@@ -481,7 +480,7 @@ span{
     width: 90%;
 }
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 90%;
 }
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
     width: 70%;
@@ -489,20 +488,45 @@ span{
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
     width: 60%;
 }
+.skills-column:nth-child(1) .skills-content .progress:nth-child(5) .bar span{
+    width: 70%;
+}
+.skills-column:nth-child(1) .skills-content .progress:nth-child(6) .bar span{
+    width: 50%;
+}
+.skills-column:nth-child(1) .skills-content .progress:nth-child(7) .bar span{
+    width: 80%;
+}
 
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
-    width: 90%;
+    width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
-    width: 70%;
+    width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span{
-    width: 60%;
+    width: 90%;
 }
+.skills-column:nth-child(2) .skills-content .progress:nth-child(5) .bar span{
+    width: 90%;
+}
+.skills-column:nth-child(2) .skills-content .progress:nth-child(6) .bar span{
+    width: 90%;
+}
+.skills-column:nth-child(2) .skills-content .progress:nth-child(7) .bar span{
+    width: 80%;
+}
+.skills-column:nth-child(2) .skills-content .progress:nth-child(8) .bar span{
+    width:90%;
+}
+.skills-column:nth-child(2) .skills-content .progress:nth-child(9) .bar span{
+    width: 100%;
+}
+
 
 .contact{
     min-height: auto;
